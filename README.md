@@ -1,6 +1,6 @@
 # README
-Hi there, I'm Mohamed Raed 👋
-💻 Full Stack Developer | Mobile & Desktop App Developer | UI/UX Enthusiast
+Hi there, I'm Mohamed Raed 👋 <br/>
+💻 Full Stack Developer | Mobile & Desktop App Developer | UI/UX Enthusiast <br/>
 I always dreamed of building software. What started as a curiosity turned into a passion—and today, coding is more than just a job, it's what drives me every day.
 
 🚀 About Me
